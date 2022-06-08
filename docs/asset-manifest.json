@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.eceab664.css",
-    "main.js": "/static/js/main.860394b0.js",
-    "index.html": "/index.html",
-    "main.eceab664.css.map": "/static/css/main.eceab664.css.map",
-    "main.860394b0.js.map": "/static/js/main.860394b0.js.map"
+    "main.css": "/react-buscadorGifs/static/css/main.eceab664.css",
+    "main.js": "/react-buscadorGifs/static/js/main.860394b0.js",
+    "index.html": "/react-buscadorGifs/index.html",
+    "main.eceab664.css.map": "/react-buscadorGifs/static/css/main.eceab664.css.map",
+    "main.860394b0.js.map": "/react-buscadorGifs/static/js/main.860394b0.js.map"
   },
   "entrypoints": [
     "static/css/main.eceab664.css",
