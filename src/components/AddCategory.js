@@ -8,6 +8,7 @@ const AddCategory = ({setCategories}) => {
     const cambio = (evento) => {
         //esta funcion permite ver lo que se escibe en tiempo real
         // console.log(evento.target.value);
+        //coment
         setEntrada(evento.target.value);
     }
 
